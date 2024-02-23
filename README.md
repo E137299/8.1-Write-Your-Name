@@ -1,3 +1,9 @@
+# 8.1 Write Your Name
+![Name](austin.png)
+## Assignment:
+For this assignment, you will create a program that will write your name or any word that is five letters or longer. 
+
+## Rubric
 |Description|Points|
 |---|---:|
 |Creates a Screen object| 1|
@@ -10,10 +16,4 @@
 |At least one letter is written using forward,backward,left,right,setheading|2|
 |Line weight should be greater than the default value of 1|0.5|
 |Each letter should be a distinct color|0.5|
-|There is at least one curved line incorporated into the name|2|# 8.1 Write Your Name
-![Name](austin.png)
-## Assignment:
-For this assignment, you will create a program that will write your name or any word that is five letters or longer. 
-
-## Rubric
-|
+|There is at least one curved line incorporated into the name|2|
